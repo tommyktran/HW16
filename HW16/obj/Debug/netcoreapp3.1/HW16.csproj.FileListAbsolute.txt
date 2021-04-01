@@ -1,0 +1,13 @@
+C:\Users\tommy\source\repos\HW16\HW16\bin\Debug\netcoreapp3.1\HW16.exe
+C:\Users\tommy\source\repos\HW16\HW16\bin\Debug\netcoreapp3.1\HW16.deps.json
+C:\Users\tommy\source\repos\HW16\HW16\bin\Debug\netcoreapp3.1\HW16.runtimeconfig.json
+C:\Users\tommy\source\repos\HW16\HW16\bin\Debug\netcoreapp3.1\HW16.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\HW16\HW16\bin\Debug\netcoreapp3.1\HW16.dll
+C:\Users\tommy\source\repos\HW16\HW16\bin\Debug\netcoreapp3.1\HW16.pdb
+C:\Users\tommy\source\repos\HW16\HW16\obj\Debug\netcoreapp3.1\HW16.csprojAssemblyReference.cache
+C:\Users\tommy\source\repos\HW16\HW16\obj\Debug\netcoreapp3.1\HW16.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\HW16\HW16\obj\Debug\netcoreapp3.1\HW16.AssemblyInfo.cs
+C:\Users\tommy\source\repos\HW16\HW16\obj\Debug\netcoreapp3.1\HW16.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\HW16\HW16\obj\Debug\netcoreapp3.1\HW16.dll
+C:\Users\tommy\source\repos\HW16\HW16\obj\Debug\netcoreapp3.1\HW16.pdb
+C:\Users\tommy\source\repos\HW16\HW16\obj\Debug\netcoreapp3.1\HW16.genruntimeconfig.cache
